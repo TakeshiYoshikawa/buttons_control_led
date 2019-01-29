@@ -1,0 +1,873 @@
+!SESSION 2019-01-25 11:29:02.846 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-01-25 11:30:17.243
+!MESSAGE Indexed 'pro12_buttons_control_leds_bsp' (77 sources, 55 headers) in 0,63 sec: 926 declarations; 2.235 references; 113 unresolved inclusions; 5 syntax errors; 193 unresolved names (5,75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-01-25 11:30:19.379
+!MESSAGE Indexed 'pro12_buttons_control_leds' (1 sources, 13 headers) in 0,01 sec: 1 declarations; 1 references; 14 unresolved inclusions; 0 syntax errors; 0 unresolved names (0,00%)
+!SESSION 2019-01-25 11:31:21.007 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:34:15.538
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:34:17.276
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:34:50.492
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:34:50.838
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:34:52.554
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:36:47.681
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:36:49.395
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:37:11.908
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:37:12.253
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-25 11:37:13.952
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+!SESSION 2019-01-28 10:02:30.805 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.ui 4 4 2019-01-28 10:03:02.881
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2019-01-28 10:03:04.247
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2019-01-28 10:03:04.247
+!MESSAGE Unable to restore perspective: Workspace - Nios II.
+!SUBENTRY 2 org.eclipse.ui 0 0 2019-01-28 10:03:04.247
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2019-01-28 10:03:04.247
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2019-01-28 10:03:04.247
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2019-01-28 10:03:04.247
+!MESSAGE OK
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:03:22.723
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:03:22.727
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:08:43.313
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:08:45.124
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:08:45.322
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:09:08.926
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:09:09.270
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:09:10.871
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:09:11.066
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:14:01.060
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:14:01.418
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:14:03.068
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:14:03.267
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:15:20.212
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:15:20.568
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:15:22.147
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:15:22.340
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:18:36.137
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:18:36.497
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:18:38.149
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:18:38.347
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:18:58.957
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:18:59.296
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:19:00.864
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:19:01.060
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:19:12.039
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:19:12.379
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:19:13.624
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:19:14.051
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:19:14.274
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 10:19:15.237
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 10:19:15.435
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:00:30.524
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:00:30.876
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:00:32.563
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:00:32.759
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:01:13.082
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:01:13.423
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:01:14.983
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:01:15.182
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:01:39.033
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:01:39.397
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:01:40.996
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:01:41.187
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:05:18.271
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:05:18.619
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:05:20.181
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:05:20.378
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:10:07.152
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:10:07.532
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:10:09.146
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:10:09.340
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:10:29.608
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:10:29.960
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:10:31.531
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:10:31.726
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:10:35.995
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --go, --accept-bad-sysid, /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf] return code: 134
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:10:35.996
+!MESSAGE Downloading ELF Process failed
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:10:43.344
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:10:44.934
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:10:45.133
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:19:28.798
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:19:29.157
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:19:30.737
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:19:30.933
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:19:54.556
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:19:54.925
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:19:56.496
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:19:56.691
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:22:58.885
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:22:59.239
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:23:00.828
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:23:01.026
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:23:16.401
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:23:16.751
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:23:18.292
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:23:19.135
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:23:19.136
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:23:20.803
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:23:20.999
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:23:37.586
+!MESSAGE Terminated Launch with connection: 10
+!SESSION 2019-01-28 11:29:35.104 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-01-28 11:29:38.028
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 4 4 2019-01-28 11:29:40.338
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2019-01-28 11:29:41.562
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2019-01-28 11:29:41.562
+!MESSAGE Unable to restore perspective: Workspace - Nios II.
+!SUBENTRY 2 org.eclipse.ui 0 0 2019-01-28 11:29:41.562
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2019-01-28 11:29:41.562
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2019-01-28 11:29:41.562
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2019-01-28 11:29:41.562
+!MESSAGE OK
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:29:48.033
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:29:49.667
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:29:49.863
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:31:32.063
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:31:32.420
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:31:34.003
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:31:34.201
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:34:55.707
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:34:56.076
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:34:57.606
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:34:57.800
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:35:55.068
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:35:55.407
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:35:56.980
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:35:57.177
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:36:19.851
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:36:20.200
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:36:21.803
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:36:21.995
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:38:58.552
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:38:58.900
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:39:00.500
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:39:00.700
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:39:58.796
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:39:59.139
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:40:00.710
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:40:00.906
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:42:12.134
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:42:12.477
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:42:14.086
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:42:14.280
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:43:43.490
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:43:44.281
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:43:45.927
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:43:46.125
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:44:38.525
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:44:38.896
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:44:40.488
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:44:40.686
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:46:33.957
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:46:34.320
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:46:35.905
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:46:36.101
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:47:03.960
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:47:04.315
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:47:05.957
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:47:06.150
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:48:03.534
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:48:03.881
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:48:05.462
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:48:05.658
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:49:25.250
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:49:26.844
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:49:27.039
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:51:17.331
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:51:17.689
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:51:19.289
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:51:19.486
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:51:48.854
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:51:49.217
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:51:50.820
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:51:51.017
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:55:23.848
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:55:24.216
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:55:25.930
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:55:26.172
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:56:14.252
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:56:14.646
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:56:16.234
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:56:16.430
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:56:42.160
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:56:42.518
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:56:44.097
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:56:44.291
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:57:14.503
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:57:14.860
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 11:57:16.453
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 11:57:16.645
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:05:04.279
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:05:04.639
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:05:06.264
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:05:06.457
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:06:57.301
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:06:57.656
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:06:59.218
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:06:59.413
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:07:33.280
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:07:33.635
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:07:35.205
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:07:35.398
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:08:27.236
+!MESSAGE Terminated Launch with connection: 10
+!SESSION 2019-01-28 12:12:21.130 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-01-28 12:12:23.387
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:12:42.968
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:12:44.553
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:12:44.752
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:13:28.800
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:13:30.363
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:13:30.557
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:13:59.235
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:14:00.160
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:14:01.693
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:14:02.391
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:14:04.718
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --go, --accept-bad-sysid, /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:14:04.721
+!MESSAGE Downloading ELF Process failed
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:15:07.442
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:15:09.069
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:15:09.265
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:15:45.629
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:15:45.981
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:15:47.515
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:15:47.707
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:16:13.927
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:16:15.486
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:16:15.680
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:17:03.747
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:17:04.091
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:17:05.656
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:17:05.850
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:18:19.983
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:18:20.295
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-28 12:18:21.872
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-28 12:18:22.067
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+!SESSION 2019-01-29 10:37:19.120 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:37:47.764
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-29 10:37:49.426
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:37:49.621
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+!SESSION 2019-01-29 10:45:29.199 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:45:37.589
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-29 10:45:39.195
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:45:39.393
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:47:16.593
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:47:16.939
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-29 10:47:18.515
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:47:18.712
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:48:39.744
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-29 10:48:41.360
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:48:41.554
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:50:41.287
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-29 10:50:42.869
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:50:43.067
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:51:39.262
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:51:39.609
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-29 10:51:41.232
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:51:41.428
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:53:51.878
+!MESSAGE Terminated Launch with connection: 10
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:53:52.236
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --stop --accept-bad-sysid --sidp=Not Found]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2019-01-29 10:53:53.818
+!MESSAGE Failed Executing: [nios2-download, '--cable=', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=Not Found] return code: 8
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-01-29 10:53:54.014
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=' --device=1 --instance=0 --go --accept-bad-sysid /cygdrive/c/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/software/pro12_buttons_control_leds/pro12_buttons_control_leds.elf]

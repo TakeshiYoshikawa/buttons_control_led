@@ -1,0 +1,19 @@
+
+**** Build of configuration Nios II for project pro12_buttons_control_leds ****
+
+make all 
+Info: Building ../pro12_buttons_control_leds_bsp/
+make --no-print-directory -C ../pro12_buttons_control_leds_bsp/
+[BSP build complete]
+Info: Compiling hello_world_small.c to obj/default/hello_world_small.o
+nios2-elf-gcc -xc -MP -MMD -c -I../pro12_buttons_control_leds_bsp//HAL/inc -I../pro12_buttons_control_leds_bsp/ -I../pro12_buttons_control_leds_bsp//drivers/inc  -DSYSTEM_BUS_WIDTH=32 -pipe -D__hal__ -DALT_NO_C_PLUS_PLUS -DALT_NO_CLEAN_EXIT -DALT_NO_EXIT -DALT_USE_DIRECT_DRIVERS -DALT_NO_INSTRUCTION_EMULATION -DALT_USE_SMALL_DRIVERS -DSMALL_C_LIB -DALT_SINGLE_THREADED    -Os -g -Wall   -EL -mno-hw-div -mhw-mul -mno-hw-mulx  -o obj/default/hello_world_small.o hello_world_small.c
+Info: Linking pro12_buttons_control_leds.elf
+nios2-elf-g++  -T'../pro12_buttons_control_leds_bsp//linker.x' -msys-crt0='../pro12_buttons_control_leds_bsp//obj/HAL/src/crt0.o' -msys-lib=hal_bsp -L../pro12_buttons_control_leds_bsp/  -Wl,--defsym,exit=_exit -msmallc  -Wl,-Map=pro12_buttons_control_leds.map   -Os -g -Wall   -EL -mno-hw-div -mhw-mul -mno-hw-mulx  -o pro12_buttons_control_leds.elf obj/default/hello_world_small.o -lm 
+nios2-elf-insert pro12_buttons_control_leds.elf --thread_model hal --cpu_name nios2_qsys_0 --qsys true --simulation_enabled false --stderr_dev jtag_uart_0 --stdin_dev jtag_uart_0 --stdout_dev jtag_uart_0 --sopc_system_name pro12_buttons_control_leds --quartus_project_dir "C:/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS" --sopcinfo C:/Users/Takeshi/Documents/FPGA/projectsC/NIOSII/pro12_buttons_control_leds/QSYS/pro12_buttons_control_leds.sopcinfo
+Info: (pro12_buttons_control_leds.elf) 1064 Bytes program size (code + initialized data).
+Info:                                  3028 Bytes free for stack + heap.
+Info: Creating pro12_buttons_control_leds.objdump
+nios2-elf-objdump --disassemble --syms --all-header --source pro12_buttons_control_leds.elf >pro12_buttons_control_leds.objdump
+[pro12_buttons_control_leds build complete]
+
+**** Build Finished ****
