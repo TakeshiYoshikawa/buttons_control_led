@@ -1,5 +1,5 @@
 # pro12_buttons_control_leds
 
-- Consiste de um experimento de definir LEDs e botões por meio do software Quartus II 13.0sp com auxílio do Qsys. Em seguida, criar um simples programa em C que manipule os componentes definidos anteriormente.
+- This project maps the behavior between input buttons and output LEDs using Quartus II 13.0sp platform alongside with Qsys. Moreover, a C source file to control the components created beforehand.
 
-Baseado no vídeo do canal MINE: https://www.youtube.com/watch?v=5-jVCgVx3aI
+- Based on buttons_control_leds from MINE: https://www.youtube.com/watch?v=5-jVCgVx3aI
